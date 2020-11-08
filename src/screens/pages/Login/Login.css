@@ -1,0 +1,19 @@
+.box{
+    position: absolute;
+    margin-top: 50%;
+    width: 500px;
+    background-color:#D3D3D3;
+    padding: 10px;
+    border-radius: 3px;
+    justify-content: center;
+}
+
+body {
+    height: 100%;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
